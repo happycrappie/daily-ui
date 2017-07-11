@@ -10,4 +10,5 @@ If you're an enthusiast of design and user experience, feel free to give me cons
 
 - [x] #001 - Sign Up
 - [x] #002 - Credit Card Checkout7
-- [ ] #003 - Landing Page (above the fold)
+- [x] #003 - Landing Page (above the fold)
+- [ ] #004 - Calculator
